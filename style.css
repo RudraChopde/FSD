@@ -1,0 +1,59 @@
+table, td, th {  
+  border: 1px solid;
+  text-align: left;
+}
+table {
+    width: 50%;
+}
+
+th, td {
+	padding: 15px;
+}
+
+th {
+	background-color: #09cde3;
+}
+
+h3{
+	font-style: italic;
+	text-decoration:underline;
+}
+
+h4{
+
+	text-decoration:underline;
+}
+
+.submit{
+	background-color: #4CAF50; 
+	border: none;
+	border-radius: 5px;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	font-size: 16px;;
+}
+
+.reset
+{
+	background-color: red;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	font-size: 16px;
+}
+
+#aform
+{
+	border: 2px solid black;
+	width:20%;
+	padding:20px;
+}
+
+img{
+	border: 10px solid #eb34cf;
+	width: 30%;
+	border-style: groove;
+}
